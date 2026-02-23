@@ -1,6 +1,7 @@
 # sistema-rh-python
 📝 Sistema de Gestão de RH (RH System)
 Este é um sistema de gerenciamento de recursos humanos desenvolvido para facilitar o controle de funcionários, permitindo o cadastro, visualização de status (Ativos/Inativos) e armazenamento de documentos.
+
 <img width="1872" height="865" alt="image" src="https://github.com/user-attachments/assets/c09c162c-437f-45b0-910a-cd4232c584cf" />
 
 
